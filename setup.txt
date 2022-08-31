@@ -1,0 +1,6 @@
+1-) npm i
+2-) npm start
+
+
+abi= src/component/abi.json //Directly paste it there
+change Address At= src/app.json-line#29  // update contract Address
